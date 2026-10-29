@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ondeway Coffee Company">
+  <rect width="512" height="512" rx="104" fill="#fbf1de"/>
+  <g transform="translate(256 256) scale(4.6)">
+    <g fill="#c1352d">
+      <rect x="-5" y="-34" width="10" height="11" rx="2.6"/>
+      <rect x="-5" y="23" width="10" height="11" rx="2.6"/>
+      <rect x="-34" y="-5" width="11" height="10" rx="2.6"/>
+      <rect x="23" y="-5" width="11" height="10" rx="2.6"/>
+      <rect x="-5" y="-34" width="10" height="11" rx="2.6" transform="rotate(45)"/>
+      <rect x="-5" y="23" width="10" height="11" rx="2.6" transform="rotate(45)"/>
+      <rect x="-34" y="-5" width="11" height="10" rx="2.6" transform="rotate(45)"/>
+      <rect x="23" y="-5" width="11" height="10" rx="2.6" transform="rotate(45)"/>
+      <circle cx="0" cy="0" r="26"/>
+    </g>
+    <circle cx="0" cy="0" r="19.5" fill="#fbf1de"/>
+    <g transform="translate(0 3) scale(0.72)">
+      <ellipse cx="0" cy="0" rx="11.5" ry="15" fill="#c1352d"/>
+      <path d="M0,-13.5 C5.5,-6 5.5,6 0,13.5" stroke="#fbf1de" stroke-width="3.4" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

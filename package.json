@@ -1,0 +1,21 @@
+{
+  "name": "bizdash",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "description": "BizDash - dashboard keuangan + POS + performance management (BSC, KPI, OKR, RACI) multi-entitas",
+  "dependencies": {
+    "better-sqlite3": "^12.9.0",
+    "express": "^4.22.3",
+    "multer": "^1.4.5-lts.1",
+    "qrcode": "^1.5.4",
+    "xlsx": "^0.18.5"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" role="img" aria-label="Ondeway">
+  <g transform="translate(44 44)" fill="#C1352D">
+    <rect x="-5" y="-34" width="10" height="11" rx="2.6"/>
+    <rect x="-5" y="23" width="10" height="11" rx="2.6"/>
+    <rect x="-34" y="-5" width="11" height="10" rx="2.6"/>
+    <rect x="23" y="-5" width="11" height="10" rx="2.6"/>
+    <rect x="-5" y="-34" width="10" height="11" rx="2.6" transform="rotate(45)"/>
+    <rect x="-5" y="23" width="10" height="11" rx="2.6" transform="rotate(45)"/>
+    <rect x="-34" y="-5" width="11" height="10" rx="2.6" transform="rotate(45)"/>
+    <rect x="23" y="-5" width="11" height="10" rx="2.6" transform="rotate(45)"/>
+    <circle cx="0" cy="0" r="26"/>
+  </g>
+  <circle cx="44" cy="44" r="19.5" fill="#ffffff"/>
+  <g transform="translate(44 47) scale(0.66)">
+    <ellipse cx="0" cy="0" rx="11.5" ry="15" fill="#C1352D"/>
+    <path d="M0,-13.5 C5.5,-6 5.5,6 0,13.5" stroke="#ffffff" stroke-width="3.6" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
